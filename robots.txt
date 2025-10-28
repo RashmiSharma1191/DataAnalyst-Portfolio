@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rashmisharma1191.github.io/DataAnalyst-Portfolio/sitemap.xml
